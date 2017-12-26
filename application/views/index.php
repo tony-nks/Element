@@ -14,6 +14,10 @@
 	<link rel="stylesheet" href="/css/owl.carousel.css">
 	<link rel="stylesheet" type="text/css" href="/rs-plugin/css/settings.css" media="screen">
 	<link rel="stylesheet" href="/css/animate.css">
+
+
+
+	
 	<!--styles -->
 </head>
 <body>
@@ -294,7 +298,7 @@
 						<a href="" class="service-icon"><i class="flaticon-speech"></i></a>
 					</div>
 					<div class="grid-col grid-col-6 clear-fix">
-						<h2>Our Services</h2>
+						<h2>Предостовляемый сервис</h2>
 						<p>Donec sollicitudin lacus in felis luctus blandit. Ut hendrerit mattis justo at susp. Vivamus orci urna, ornare vitae tellus in, condimentum imperdiet eros. Maecea accumsan, massa nec vulputate congue. Maecenas nec odio et ante tincidunt creptus alarimus tempus.</p>
 						<a href="" class="cws-button bt-color-3 border-radius alt icon-right float-right">Learn More<i class="fa fa-angle-right"></i></a>
 					</div>
@@ -315,28 +319,28 @@
 						<div class="counter-block">
 							<i class="flaticon-book1"></i>
 							<div class="counter" data-count="356">0</div>
-							<div class="counter-name">Courses</div>
+							<div class="counter-name">Записей</div>
 						</div>
 					</div>
 					<div class="grid-col grid-col-3 alt">
 						<div class="counter-block">
 							<i class="flaticon-multiple"></i>
 							<div class="counter" data-count="4781">0</div>
-							<div class="counter-name">Students</div>
+							<div class="counter-name">Пользователей</div>
 						</div>							
 					</div>
 					<div class="grid-col grid-col-3 alt">
 						<div class="counter-block">
 							<i class="flaticon-pencil"></i>
 							<div class="counter" data-count="41">0</div>
-							<div class="counter-name">Lections</div>
+							<div class="counter-name">Статьей</div>
 						</div>
 					</div>
 					<div class="grid-col grid-col-3 alt">
 						<div class="counter-block last">
 							<i class="flaticon-calendar"></i>
 							<div class="counter" data-count="120">0</div>
-							<div class="counter-name">Events</div>
+							<div class="counter-name">Событии</div>
 						</div>
 					</div>
 				</div>
@@ -346,7 +350,7 @@
 		<!-- section -->
 		<section class="fullwidth-background padding-section">
 			<div class="grid-row">
-				<h2 class="center-text">How We Work</h2>
+				<h2 class="center-text">Как найти?</h2>
 				<!-- time line -->
 				<div class="time-line">
 					<div class="line-element">
@@ -354,25 +358,25 @@
 							<div class="action-block">
 								<span><i class="flaticon-magnifier"></i></span>
 								<div class="text">
-									<h3>Search your course</h3>
-									<p>Lorem ipsum  dolor sit amet, consectetuer adipisc ing elit. Aenean commodo ligula.</p>
+									<h3>Продвинутый поисковик</h3>
+									<p>Продвинутый поисковик позволяет найти любую информацию на нашем сайте.</p>
 								</div>
 							</div>
 						</div>
 						<div class="level">
-							<div class="level-block">Step 1</div>
+							<div class="level-block">Ступеть 1</div>
 						</div>
 					</div>
 					<div class="line-element color-2">
 						<div class="level">
-							<div class="level-block">Step 2</div>
+							<div class="level-block">Ступень 2</div>
 						</div>
 						<div class="action">
 							<div class="action-block">
 								<span><i class="flaticon-computer"></i></span>
 								<div class="text">
-									<h3>Take A Sample Lesson</h3>
-									<p>Aenean massa. Cum sociis nato que penatibus et magnis dis par turient montes.</p>
+									<h3>Стиль</h3>
+									<p>Современный гибкий язык программирования позволил добится более удобного оформления новостей.</p>
 								</div>
 							</div>
 						</div>
@@ -382,13 +386,13 @@
 							<div class="action-block">
 								<span><i class="flaticon-shopping"></i></span>
 								<div class="text">
-									<h3>Purchase the Course</h3>
-									<p>Donec quam felis, ultricies nec, pellent esque eu, pretium quis, sem. Nulla conse massa.</p>
+									<h3>База данных</h3>
+									<p>Очень большая база данных, которая хранит много интересного и нужного		.</p>
 								</div>
 							</div>
 						</div>
 						<div class="level">
-							<div class="level-block">Step 3</div>
+							<div class="level-block">Ступень 3</div>
 						</div>
 					</div>
 				</div>
@@ -431,7 +435,7 @@
 		<!-- paralax section -->
 		<section class="fullwidth-background padding-section">
 			<div class="grid-row clear-fix">
-				<h2 class="center-text">About Us</h2>
+				<h2 class="center-text">О нас</h2>
 				<div class="grid-col-row">
 					<div class="grid-col grid-col-6">
 						<h3>Why We Are Better</h3>
