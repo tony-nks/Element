@@ -51,7 +51,7 @@
 			<div class="sticky-menu">
 				<div class="grid-row clear-fix">
 					<!-- logo -->
-					<a href="index.html" class="logo">
+					<a href="/" class="logo">
 						<img src="/img/logo.png"  data-at2x="/img/logo@2x.png" alt>
 						<h1>uniLearn</h1>
 					</a>
@@ -59,7 +59,7 @@
 					<nav class="main-nav">
 						<ul class="clear-fix">
 							<li>
-								<a href="index.html" class="active">Главная</a>
+								<a href="/" class="active">Главная</a>
 								<!-- sub menu -->
 								<ul>
 									<li><a href="/news" class="active">Новости</a></li>
@@ -753,7 +753,7 @@
 				<nav class="footer-nav">
 					<ul class="clear-fix">
 						<li>
-							<a href="index.html">Home</a>
+							<a href="/html">�������</a>
 						</li>
 						<li>
 							<a href="courses-grid.html">Courses</a>

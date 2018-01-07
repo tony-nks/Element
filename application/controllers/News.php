@@ -14,7 +14,14 @@ class News extends CI_Controller {
 	{
 		$this->db->delete('news', array('id' => $id));
 	}
-	
+
+    public function show($id){
+       $r = $this->db->where('id',$id)->get('news')->row_array();
+		
+	       $data['info'] = $r;
+        $this->view_lib->render('news/show',$data);
+	}
+	 	
 	public function add()
 	{
 		if($this->input->post('title'))

@@ -1,0 +1,2 @@
+<div style="clear: both;"></div>
+<div class="pages">[prev-link]Назад[/prev-link]  {pages}  [next-link]Вперед[/next-link]																																																													[not-page-count=1]<span style="display:none;"> <a href="https://dleshka.org/" title="Уникальные модули, шаблоны DLE скачать">Бесплатно модули и шаблоны DLE</a> <a href="https://themka.ru/" title="скачать премиум шаблоны для wordpress opencart">скачать шаблоны для веб сайтов</a></span>[/not-page-count]</div>

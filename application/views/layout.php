@@ -1,5 +1,3 @@
-
-
 <!DOCTYPE HTML>
 <html>
 <head>
@@ -8,11 +6,11 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
 	<!-- style -->
 	<link rel="shortcut icon" href="img/favicon.png">
-	<link rel="stylesheet" href="css/font-awesome.css">
-	<link rel="stylesheet" href="css/main.css">
+	<link rel="stylesheet" href="/css/font-awesome.css">
+	<link rel="stylesheet" href="/css/main.css">
 	
-	<link rel="stylesheet" type="text/css" href="css/jquery.fancybox.css" />
-	<link rel="stylesheet" href="css/owl.carousel.css">
+	<link rel="stylesheet" type="text/css" href="/css/jquery.fancybox.css" />
+	<link rel="stylesheet" href="/css/owl.carousel.css">
 	<!--styles -->
 </head>
 <body>
@@ -53,7 +51,7 @@
 					<nav class="main-nav">
 						<ul class="clear-fix">
 							<li>
-								<a href="index.html">Home</a>
+								<a href="/">Главная</a>
 								<!-- sub menu -->
 								<ul>
 									<li><a href="index.html">Full-Width Slider</a></li>
@@ -156,13 +154,7 @@
 		<div class="page-title">
 			<div class="grid-row">
 				<h1>Новости</h1>
-				<!-- bread crumb -->
-				<nav class="bread-crumb">
-					<a href="/">Главная</a>
-					<i class="fa fa-long-arrow-right"></i>
-					<a href="/news">Новости</a>
-				</nav>
-				<!-- / bread crumb -->
+				
 			</div>
 		</div>
 	</header>
